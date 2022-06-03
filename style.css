@@ -110,6 +110,9 @@ header .material-symbols-outlined {
     "left-menu__third__row" 150px
     "left-menu__fourth__row" 1fr;
 }
+.left-menu a{
+  text-decoration: none;
+}
 .left-menu__first__row {
   grid-area: left-menu__first__row;
   display: grid;
